@@ -9,7 +9,7 @@ const App = () => {
       <div className="container mt-5">
         <div className="row">
           <div className="col-md-12 text-center">
-            <h3>Simple Counter</h3>
+            <h3>React Counter</h3>
             <hr />
             <Number />
             <p className="mt-5"><i>Using React and ContextAPI</i></p>
